@@ -24,11 +24,13 @@ This list contains awesome web browser related stuff. It includes open-source we
 - [Let's build a browser engine!](https://limpet.net/mbrubeck/2014/08/08/toy-layout-engine-1.html) - a tutorial series by Matt Brubeck
 - [Browser from Scratch](https://zerox-dg.github.io/blog/tags/browser-from-scratch/) - a blog series by Viet-Hung Nguyen
 - [Rust Browser](https://joshondesign.com/tags/browser) - a blog series by Josh Marinacci
+- [Quantum Up Close: What is a browser engine?](https://hacks.mozilla.org/2017/05/quantum-up-close-what-is-a-browser-engine/) - an introduction to browser engine by Potch
 
 ### Websites
 
 - [W3C](https://www.w3.org/) - CSS Specs
 - [WHATWG](https://spec.whatwg.org/) - HTML, DOM, URL specs and more
+- [Google Chrome comics](https://www.google.com/googlebooks/chrome/) - Under the hood of Google Chrome in form of comics
 
 ### Papers
 
