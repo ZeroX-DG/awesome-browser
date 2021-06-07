@@ -12,6 +12,7 @@ This list contains awesome web browser related stuff. It includes open-source we
 - [SerenityOS's browser](https://github.com/SerenityOS/serenity/tree/master/Userland/Applications/Browser) - A browser written for SerenityOS
 - [WebKit](https://github.com/WebKit/WebKit) - WebKit is a cross-platform web browser engine.
 - [Chromium](https://github.com/chromium/chromium) - Chromium is an open-source browser project that aims to build a safer, faster, and more stable way for all users to experience the web.
+- [@gantonious's browser](https://github.com/gantonious/browser) - A web browser engine + frontend built in Kotlin from scratch
 
 ## Resources
 
