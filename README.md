@@ -13,6 +13,7 @@ This list contains awesome web browser related stuff. It includes open-source we
 - [WebKit](https://github.com/WebKit/WebKit) - WebKit is a cross-platform web browser engine.
 - [Chromium](https://github.com/chromium/chromium) - Chromium is an open-source browser project that aims to build a safer, faster, and more stable way for all users to experience the web.
 - [@gantonious's browser](https://github.com/gantonious/browser) - A web browser engine + frontend built in Kotlin from scratch
+- [wowser](https://github.com/quittle/wowser) - An (un)impressive browser being written from scratch in Rust
 
 ## Resources
 
