@@ -29,6 +29,9 @@ This list contains awesome web browser related stuff. It includes open-source we
 - [Rust Browser](https://joshondesign.com/tags/browser) - a blog series by Josh Marinacci
 - [Quantum Up Close: What is a browser engine?](https://hacks.mozilla.org/2017/05/quantum-up-close-what-is-a-browser-engine/) - an introduction to browser engine by Potch
 
+### Videos & series
+- [Browser Hacking](https://www.youtube.com/playlist?list=PLMOpZvQB55be0Nfytz9q2KC_drvoKtkpS) - a video series by Andreas Kling, building a browser for SerenityOS.
+
 ### Websites
 
 - [W3C](https://www.w3.org/) - CSS Specs
