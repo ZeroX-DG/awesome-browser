@@ -15,6 +15,7 @@ This list contains awesome web browser related stuff. It includes open-source we
 - [@gantonious's browser](https://github.com/gantonious/browser) - A web browser engine + frontend built in Kotlin from scratch
 - [wowser](https://github.com/quittle/wowser) - An (un)impressive browser being written from scratch in Rust
 - [mbrowser](https://github.com/MQuy/mbrowser) - A toy web browser developed from scratch
+- [Snowcat](https://codeberg.org/snowcat/snowcat) - Snowcat is a fast, open source web browser focused on privacy. With its custom browser engine optimized for speed and efficiency, Snowcat aims to provide a lightweight yet powerful browsing alternative.
 
 ## Resources
 
